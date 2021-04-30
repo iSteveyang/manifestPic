@@ -1,3 +1,4 @@
-.DS_Store
+/manifest/.DS_Store
 *.py
 /gallary
+.DS_Store
